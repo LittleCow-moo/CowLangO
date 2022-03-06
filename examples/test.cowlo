@@ -1,7 +1,5 @@
 title=我的標題
 author=我的名字
 <line>
-<desc>
 這是一篇文章，很神奇的文章<br>
 可以換行，但要用 br。
-</desc>
